@@ -394,3 +394,4 @@
 - Activity 1 on 2022-03-01
 - Activity 2 on 2022-03-01
 - Activity 1 on 2022-03-02
+- Activity 2 on 2022-03-02

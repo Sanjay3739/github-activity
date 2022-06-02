@@ -540,3 +540,4 @@
 - Activity 1 on 2022-06-01
 - Activity 1 on 2022-06-02
 - Activity 1 on 2022-06-03
+- Activity 2 on 2022-06-03

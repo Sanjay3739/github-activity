@@ -2034,3 +2034,4 @@
 - Activity 1 on 2022-06-30
 - Activity 2 on 2022-06-30
 - Activity 1 on 2022-07-01
+- Activity 2 on 2022-07-01

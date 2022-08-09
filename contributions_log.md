@@ -629,3 +629,4 @@
 - Activity 4 on 2022-08-05
 - Activity 1 on 2022-08-08
 - Activity 1 on 2022-08-10
+- Activity 2 on 2022-08-10

@@ -846,3 +846,4 @@
 - Activity 1 on 2022-12-28
 - Activity 2 on 2022-12-28
 - Activity 1 on 2022-12-30
+- Activity 1 on 2023-01-01

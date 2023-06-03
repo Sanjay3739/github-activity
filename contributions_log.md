@@ -1060,3 +1060,4 @@
 - Activity 1 on 2023-05-31
 - Activity 1 on 2023-06-01
 - Activity 1 on 2023-06-02
+- Activity 1 on 2023-06-04

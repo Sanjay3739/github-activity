@@ -1186,3 +1186,4 @@
 - Activity 1 on 2023-08-18
 - Activity 1 on 2023-08-21
 - Activity 1 on 2023-08-22
+- Activity 2 on 2023-08-22

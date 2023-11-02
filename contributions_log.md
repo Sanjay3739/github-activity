@@ -1277,3 +1277,4 @@
 - Activity 1 on 2023-11-01
 - Activity 1 on 2023-11-02
 - Activity 1 on 2023-11-03
+- Activity 2 on 2023-11-03

@@ -1303,3 +1303,4 @@
 - Activity 1 on 2023-11-22
 - Activity 1 on 2023-11-23
 - Activity 1 on 2023-11-24
+- Activity 2 on 2023-11-24

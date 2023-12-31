@@ -1350,3 +1350,4 @@
 - Activity 1 on 2023-12-29
 - Activity 2 on 2023-12-29
 - Activity 1 on 2023-12-31
+- Activity 1 on 2024-01-01

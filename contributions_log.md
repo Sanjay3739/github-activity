@@ -1378,3 +1378,4 @@
 - Activity 1 on 2024-01-16
 - Activity 1 on 2024-01-17
 - Activity 1 on 2024-01-18
+- Activity 2 on 2024-01-18

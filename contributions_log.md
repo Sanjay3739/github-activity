@@ -1540,3 +1540,4 @@
 - Activity 3 on 2024-05-31
 - Activity 4 on 2024-05-31
 - Activity 1 on 2024-06-02
+- Activity 2 on 2024-06-02
